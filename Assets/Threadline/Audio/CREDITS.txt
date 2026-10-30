@@ -1,0 +1,12 @@
+Thread sounds. All sources are Creative Commons 0 (public domain) recordings from freesound.org.
+The one-shots are short slices of these recordings: high-passed, faded and peak-normalized.
+rustle_loop.wav is a mix of the pull and release slices scattered over an 8 second loop.
+
+pull_01 ... pull_10   "Sewing cloth.wav" by heifabaisi
+                      https://freesound.org/people/heifabaisi/sounds/646586/
+pull_11, pull_12      "nylon rope string fishing line handling tying tie tense friction" by kyles
+                      https://freesound.org/people/kyles/sounds/450849/
+nail_01 ... nail_07   "dental floss sounds.wav" by digital.arts.MA
+release_06            https://freesound.org/people/digital.arts.MA/sounds/688690/
+release_01 ... _05    "nylon string pull.wav" by alec_mackay
+                      https://freesound.org/people/alec_mackay/sounds/463679/

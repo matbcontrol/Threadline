@@ -1,0 +1,75 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
+# /[Aa]ssets/AssetStoreTools*
+
+# JetBrains Rider plugin
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# IDE and tool caches
+.vs/
+.idea/
+.vscode/
+.gradle/
+.consulo/
+ExportedObj/
+
+# Solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Debug symbol meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports
+sysinfo.txt
+mono_crash.*
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Crashlytics
+crashlytics-buildtype.cs
+crashlytics-build.properties
+
+# Addressables
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frames written by Threadline > Capture Frames
+/Captures/
